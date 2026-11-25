@@ -1,0 +1,25 @@
+# Dependencias (se regeneran con "npm install", no se suben a la nube)
+node_modules/
+
+# Registros y archivos temporales
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+*.tmp
+
+# Variables de entorno y datos privados
+.env
+.env.*
+
+# Carpeta que crea Vercel al vincular el proyecto desde la terminal
+.vercel/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de editores
+.vscode/
+.idea/

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="361 23 334 334"><title>Koria&amp;Garcia Banquetes</title><defs>
+<linearGradient id="lgGold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd447"/><stop offset=".55" stop-color="#f6ae12"/><stop offset="1" stop-color="#e08f00"/></linearGradient>
+<linearGradient id="lgGold2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffdc5a"/><stop offset="1" stop-color="#e99a05"/></linearGradient>
+<linearGradient id="lgBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b1b1b"/><stop offset="1" stop-color="#0a0a0a"/></linearGradient>
+<clipPath id="lgDia"><rect x="-118" y="-118" width="236" height="236" rx="20" transform="translate(528 190) rotate(45)"/></clipPath>
+</defs><g>
+<rect x="-118" y="-118" width="236" height="236" rx="20" transform="translate(528 190) rotate(45)" fill="url(#lgGold2)"/>
+<g clip-path="url(#lgDia)" stroke="#161616" stroke-width="4.5" stroke-linecap="round" fill="none" opacity=".92">
+<path d="M340,108 H716"/><path d="M340,272 H716"/><path d="M350,12 L706,368"/><path d="M706,12 L350,368"/>
+</g>
+<g fill="#121212">
+<g transform="translate(465 0)">
+<rect x="-17" y="108" width="4.2" height="46" rx="2.1"/><rect x="-7" y="108" width="4.2" height="46" rx="2.1"/><rect x="3" y="108" width="4.2" height="46" rx="2.1"/><rect x="13" y="108" width="4.2" height="46" rx="2.1"/>
+<path d="M-17,148 H17.2 V160 Q17.2,178 4.6,186 V268 Q4.6,278 0,278 Q-4.6,278 -4.6,268 V186 Q-17,178 -17,160 Z"/>
+</g>
+<g transform="translate(528 0)">
+<path d="M-14,252 V120 Q-14,98 2,98 Q17,112 17,176 V252 Z"/>
+<path d="M-6,248 H8 V346 Q8,356 1,356 Q-6,356 -6,346 Z"/>
+</g>
+<g transform="translate(591 0)">
+<ellipse cx="0" cy="158" rx="21.5" ry="42"/>
+<path d="M-4.6,196 H4.6 L3.4,268 Q3.4,276 0,276 Q-3.4,276 -3.4,268 Z"/>
+</g>
+</g>
+</g></svg>

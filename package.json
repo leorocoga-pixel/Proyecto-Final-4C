@@ -1,0 +1,15 @@
+{
+  "name": "koria-garcia-banquetes",
+  "version": "1.0.0",
+  "description": "Sitio web de Koria&Garcia Banquetes: menú decembrino y paquetes de Navidad. Solo HTML y CSS, con servidor local en Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["banquetes", "menu", "html", "css", "nodejs"],
+  "license": "MIT",
+  "private": true
+}
